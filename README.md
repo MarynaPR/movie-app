@@ -1,4 +1,4 @@
-#Movie App
+# Movie App
 ### Description :page_with_curl:
 
 This is a movie app using Next.js, TailwindCSS, and IMDb database. The project is deployed to [Velcel](https://movie-upn22jxj9-marynapr.vercel.app/)
