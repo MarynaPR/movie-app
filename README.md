@@ -3,7 +3,7 @@
 
 This is a movie app using Next.js, TailwindCSS and IMDB database. 
 
-The project is deployed to [GitHub Pages]()
+The project is deployed to [Velcel](https://movie-upn22jxj9-marynapr.vercel.app/)
 
 #### Screenshots :camera_flash:
 ![screenshot](./src/images/screenshot.png)
