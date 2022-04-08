@@ -30,6 +30,7 @@ NW
 [the Next.js GitHub repository](https://github.com/vercel/next.js/) 
 [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 [HeroIcons](https://heroicons.com/)
+[tidb](https://www.themoviedb.org/?language=en-US)
 
 
 #### Installation :electric_plug:

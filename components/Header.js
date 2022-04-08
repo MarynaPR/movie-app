@@ -6,12 +6,12 @@ import { HomeIcon, UserIcon, PhoneIcon, InformationCircleIcon } from '@heroicons
 
 export default function Header() {
     return (
-        <div className='bg-blue-900 text-gray-200 flex flex-col items-center p-6 select-none sm:flex-row justify-between'>
+        <div className='bg-slate-900 text-rose-50  flex flex-col items-center p-6 select-none sm:flex-row justify-between'>
             <div className='flex'>
                 <HeaderIcon Icon={HomeIcon} title="HOME" />
+                <HeaderIcon Icon={InformationCircleIcon} title="ABOUT" />
                 <HeaderIcon Icon={UserIcon} title="ACCOUNT" />
                 <HeaderIcon Icon={PhoneIcon} title="CONTACT" />
-                <HeaderIcon Icon={InformationCircleIcon} title="ABOUT" />
             </div>
             <Image
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/220px-IMDB_Logo_2016.svg.png"
